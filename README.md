@@ -1,5 +1,5 @@
 # HexoLocalTools
-使用Hexo + node.js + git 创建个人博客网站后，所有指令都是使用CMD指令不是很方便。而且我这也是直接上传静态网页，所以未了方便便花了一天时间构建了一个Hexo工具，此工具本质上也执行CMD指令，只不过有界面方便操作。
+使用Hexo + node.js + git 创建个人博客网站后，所有指令都是使用CMD指令不是很方便。而且我这也是直接上传静态网页，所以为了方便便花了一天时间构建了一个Hexo工具，此工具本质上也执行CMD指令，只不过有界面方便操作。
 
 使用工具前的准备：
 1.安装node.js(npm一般随node.js 就安装上了)
@@ -17,3 +17,11 @@
 7.支持一键发布(clean、generate、deploy指令依次执行，需要配置好deoloy)
 
 deoloy 配置(hexo一键部署)：https://hexo.io/zh-cn/docs/one-command-deployment
+
+功能尚不完善，只支持基础内容，像图片引用等相关操作还需要手动执行，后续有时间后会逐步完善
+
+![img1](https://github.com/igame98/HexoLocalTools/assets/59693276/52d0e871-0f2e-4589-ab5c-88a44634c717)
+
+
+
+
