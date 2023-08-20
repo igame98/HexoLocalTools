@@ -20,7 +20,7 @@ deoloy 配置(hexo一键部署)：https://hexo.io/zh-cn/docs/one-command-deploym
 
 功能尚不完善，只支持基础内容，像图片引用等相关操作还需要手动执行，后续有时间后会逐步完善
 
-![img1](https://github.com/igame98/HexoLocalTools/assets/59693276/52d0e871-0f2e-4589-ab5c-88a44634c717)
+![Snipaste_2023-08-20_23-05-04](https://github.com/igame98/HexoLocalTools/assets/59693276/f0e6c0c0-d1b7-41e9-a5d8-b75359deed6c)
 
 
 
