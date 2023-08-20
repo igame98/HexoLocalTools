@@ -1,0 +1,6 @@
+
+//分类
+categories:
+- [咖啡剧场]
+
+插入图片 ：![](/images/img1.jpg)
